@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GB_HomeWork_1</string>
+    <string name="passenger_count">Количество пассажиров</string>
+    <string name="reset">Сброс</string>
+</resources>
